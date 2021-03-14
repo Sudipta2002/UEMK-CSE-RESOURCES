@@ -25,6 +25,10 @@
 
 <br>
 
+[InterviewBit](www.interviewbit.com)
+
+<br>
+
 ```YouTube channels u can follow for getting knowledge```
 
 <br>
@@ -56,3 +60,13 @@
 [take U forward](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig)
 
 <br>
+
+[Babbar CODE HELP](https://www.youtube.com/channel/UCldyi11QYNXYXiLjVbyw5dA)
+
+<br>
+
+[Love Babbar DA Algo Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
+
+<br>
+
+[Striver question sheet](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
