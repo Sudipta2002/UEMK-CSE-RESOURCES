@@ -1,2 +1,2 @@
-# UEMK-QUESTION_PAPERS_1ST_YEAR
+# UEMK-CSE-RESOURCES
 ```All the question papers & assignments here including the end sem is included here```
