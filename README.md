@@ -1,7 +1,7 @@
 # UEMK-CSE-RESOURCES
 ```All the question papers & assignments here including the end sem is included here```
 
-[codechef](https://www.codechef.com/)
+[CodeChef](https://www.codechef.com/)
 
 <br>
 
