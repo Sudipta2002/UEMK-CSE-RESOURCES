@@ -1,11 +1,17 @@
 # UEMK-CSE-RESOURCES
 ```All the question papers & assignments here including the end sem is included here```
 
-[codechef](www.codechef.com)
+[codechef](https://www.codechef.com/)
+
 <br>
-www.geeksforgeeks.org
+
+[GeeksForGeeks](https://www.geeksforgeeks.org/)
+
 <br>
-www.codeforces.com
+
+[Codeforces](https://codeforces.com/)
+
 <br>
-www.leetcode.com
+
+[Leetcode](https://leetcode.com/)
 <br>
