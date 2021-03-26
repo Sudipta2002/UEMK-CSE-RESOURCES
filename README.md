@@ -6,7 +6,9 @@
 
 
 # UEMK-CSE-RESOURCES
-```All the question papers & assignments here including the end sem is included here```
+```All the question papers & assignments including the END SEMESTER, is included here```
+
+```Below here some important websites where you can do coding practice and Competetive Coding```
 
 [CodeChef](https://www.codechef.com/)
 
@@ -72,6 +74,14 @@
 
 <br>
 
+[MySirG](https://www.youtube.com/user/saurabhexponent1)
+
+<br>
+
+[Neso Academy](https://www.youtube.com/results?search_query=neso+academy)
+
+<br>
+
 ```DS Algo Questions for better understanding and excellent grip and confidence for cracking coding rounds as well as interview```
 
 <br>
@@ -81,6 +91,22 @@
 <br>
 
 [Striver DS Algo question sheet](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
+
+<br>
+
+```Some important documantation sites to learn coding:```
+
+<br>
+
+[w3schools.com](https://www.w3schools.com/)
+
+<br>
+
+[MDN webdocs](https://developer.mozilla.org/en-US/)
+
+<br>
+
+[Tutorialspoint](https://www.tutorialspoint.com/index.htm)
 
 <br>
 
