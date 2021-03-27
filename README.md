@@ -7,10 +7,10 @@
 
 # <center>UEMK-CSE-RESOURCES
 ## All the question papers & assignments including the END SEMESTER, is included here
-<hr>
+
 <br>
 
-### ```Below here some important websites where you can do coding practice and Competetive Coding :```
+ ```Below here some important websites where you can do coding practice and Competetive Coding :```
 <br>
 
 - [CodeChef](https://www.codechef.com/)
@@ -27,11 +27,9 @@
 
 - [InterviewBit](www.interviewbit.com)
 
-<br>
 
-### ```YouTube channels u can follow for getting knowledge :```
+ ```YouTube channels u can follow for getting knowledge :```
 
-<br>
 
 - [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
 
@@ -53,20 +51,18 @@
 
 - [Neso Academy](https://www.youtube.com/results?search_query=neso+academy)
 
-<br>
 
-### ```DS Algo Questions for better understanding and excellent grip and confidence for cracking coding rounds as well as interview :```
+ ```DS Algo Questions for better understanding and excellent grip and confidence for cracking coding rounds as well as interview :```
 
-<br>
 
 - [Love Babbar DS Algo Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
 
 - [Striver DS Algo question sheet](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
 
-<br>
 
-### ```Some important documantation sites to learn coding :```
-<br>
+
+ ```Some important documantation sites to learn coding :```
+
 
 - [w3schools.com](https://www.w3schools.com/)
 
@@ -74,11 +70,11 @@
 
 - [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
 
-<br>
 
-### ```STARTUP NEN WARDHWANI FOUNDATION :```
 
-<br>
+ ```STARTUP NEN WARDHWANI FOUNDATION :```
+
+
 
 - [Milestone rubric](https://wadhwanifoundation-my.sharepoint.com/:x:/g/personal/shaik_waseem_wfglobal_org/ERuPj4GaM2VDrN40_XMHpZgBDxfcQhODhaPo--67kTcDOw?e=1ry3w0)
 
@@ -90,7 +86,7 @@
 
 - [Important resources for M4:](https://wadhwanifoundation-my.sharepoint.com/:f:/g/personal/shaik_waseem_wfglobal_org/EkhLqrB1UrVPrdkL-VTLMCIBdGm9_ydtHMB51D_aMj7wmg?e=XlNNyp)
 
-<br>
+
 
 
 
