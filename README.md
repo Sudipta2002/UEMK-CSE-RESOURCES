@@ -5,134 +5,88 @@
 
 
 
-# UEMK-CSE-RESOURCES
-```All the question papers & assignments including the END SEMESTER, is included here```
-
-```Below here some important websites where you can do coding practice and Competetive Coding```
-
-[CodeChef](https://www.codechef.com/)
+# <center>UEMK-CSE-RESOURCES
+## All the question papers & assignments including the END SEMESTER, is included here
 
 <br>
 
-[GeeksForGeeks](https://www.geeksforgeeks.org/)
-
+ ```Below here some important websites where you can do coding practice and Competetive Coding :```
 <br>
 
-[Codeforces](https://codeforces.com/)
+- [CodeChef](https://www.codechef.com/)
 
-<br>
+- [GeeksForGeeks](https://www.geeksforgeeks.org/)
 
-[Leetcode](https://leetcode.com/)
+- [Codeforces](https://codeforces.com/)
 
-<br>
+- [Leetcode](https://leetcode.com/)
 
-[HackerRank](www.hackerrank.com)
+- [HackerRank](www.hackerrank.com)
 
-<br>
+- [HackerEarth](www.hackerearth.com)
 
-[HackerEarth](www.hackerearth.com)
+- [InterviewBit](www.interviewbit.com)
 
-<br>
 
-[InterviewBit](www.interviewbit.com)
+ ```YouTube channels u can follow for getting knowledge :```
 
-<br>
 
-```YouTube channels u can follow for getting knowledge```
+- [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
 
-<br>
+- [Code for Cause](https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg)
 
-[CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
+- [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA)
 
-<br>
+- [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
-[Code for Cause](https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg)
+- [Love Babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw)
 
-<br>
+- [Anuj Bhaiya](https://www.youtube.com/channel/UC58_wzhvJta3hDSPvRLDAqg)
 
-[Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA)
+- [take U forward](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig)
 
-<br>
+- [Babbar CODE HELP](https://www.youtube.com/channel/UCldyi11QYNXYXiLjVbyw5dA)
 
-[freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [MySirG](https://www.youtube.com/user/saurabhexponent1)
 
-<br>
+- [Neso Academy](https://www.youtube.com/results?search_query=neso+academy)
 
-[Love Babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw)
 
-<br>
+ ```DS Algo Questions for better understanding and excellent grip and confidence for cracking coding rounds as well as interview :```
 
-[Anuj Bhaiya](https://www.youtube.com/channel/UC58_wzhvJta3hDSPvRLDAqg)
 
-<br>
+- [Love Babbar DS Algo Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
 
-[take U forward](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig)
+- [Striver DS Algo question sheet](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
 
-<br>
 
-[Babbar CODE HELP](https://www.youtube.com/channel/UCldyi11QYNXYXiLjVbyw5dA)
 
-<br>
+ ```Some important documantation sites to learn coding :```
 
-[MySirG](https://www.youtube.com/user/saurabhexponent1)
 
-<br>
+- [w3schools.com](https://www.w3schools.com/)
 
-[Neso Academy](https://www.youtube.com/results?search_query=neso+academy)
+- [MDN webdocs](https://developer.mozilla.org/en-US/)
 
-<br>
+- [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
 
-```DS Algo Questions for better understanding and excellent grip and confidence for cracking coding rounds as well as interview```
 
-<br>
 
-[Love Babbar DS Algo Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
+ ```STARTUP NEN WARDHWANI FOUNDATION :```
 
-<br>
 
-[Striver DS Algo question sheet](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
 
-<br>
+- [Milestone rubric](https://wadhwanifoundation-my.sharepoint.com/:x:/g/personal/shaik_waseem_wfglobal_org/ERuPj4GaM2VDrN40_XMHpZgBDxfcQhODhaPo--67kTcDOw?e=1ry3w0)
 
-```Some important documantation sites to learn coding:```
+- [Milestone template](https://wadhwanifoundation-my.sharepoint.com/:p:/g/personal/shaik_waseem_wfglobal_org/EX3oSCNkC2NPqwXDzNM8EmEBy3Nj2DSHzBV5Mxfp-mHKIA?e=7G6bJW) 
 
-<br>
+- [Sample milestone:](https://wadhwanifoundation-my.sharepoint.com/:p:/g/personal/shaik_waseem_wfglobal_org/EVKV91h0s6pLlHnYC55xKA0BzLsg88fqDWKE3NXkdUnJPw?e=3h54CV)
 
-[w3schools.com](https://www.w3schools.com/)
+- [Check list:](https://wadhwanifoundation-my.sharepoint.com/personal/shaik_waseem_wfglobal_org/_layouts/15/onedrive.aspx?id=/personal/shaik_waseem_wfglobal_org/Documents/Milestone%20Handbook/Milestone%20Presentation%20Handbook/milestone%204/Checklist%20to%20get%20PRVS%20-%20%20FCV2%20-%20Jury%20Certified.pdf&parent=/personal/shaik_waseem_wfglobal_org/Documents/Milestone%20Handbook/Milestone%20Presentation%20Handbook/milestone%204&originalPath=aHR0cHM6Ly93YWRod2FuaWZvdW5kYXRpb24tbXkuc2hhcmVwb2ludC5jb20vOmI6L2cvcGVyc29uYWwvc2hhaWtfd2FzZWVtX3dmZ2xvYmFsX29yZy9FVWVfTDljcGpDSk5obXktSENjVkduMEJXaXprYW5WZ2doR3EzVGhfSDhya3lnP3J0aW1lPVdQbVNUc3JtMkVn)
 
-<br>
+- [Important resources for M4:](https://wadhwanifoundation-my.sharepoint.com/:f:/g/personal/shaik_waseem_wfglobal_org/EkhLqrB1UrVPrdkL-VTLMCIBdGm9_ydtHMB51D_aMj7wmg?e=XlNNyp)
 
-[MDN webdocs](https://developer.mozilla.org/en-US/)
 
-<br>
-
-[Tutorialspoint](https://www.tutorialspoint.com/index.htm)
-
-<br>
-
-```STARTUP NEN WARDHWANI FOUNDATION```
-
-<br>
-
-[Milestone rubric](https://wadhwanifoundation-my.sharepoint.com/:x:/g/personal/shaik_waseem_wfglobal_org/ERuPj4GaM2VDrN40_XMHpZgBDxfcQhODhaPo--67kTcDOw?e=1ry3w0)
-
-<br>
-
-[Milestone template](https://wadhwanifoundation-my.sharepoint.com/:p:/g/personal/shaik_waseem_wfglobal_org/EX3oSCNkC2NPqwXDzNM8EmEBy3Nj2DSHzBV5Mxfp-mHKIA?e=7G6bJW) 
-
-<br>
-
-[Sample milestone:](https://wadhwanifoundation-my.sharepoint.com/:p:/g/personal/shaik_waseem_wfglobal_org/EVKV91h0s6pLlHnYC55xKA0BzLsg88fqDWKE3NXkdUnJPw?e=3h54CV)
-
-<br>
-
-[Check list:](https://wadhwanifoundation-my.sharepoint.com/personal/shaik_waseem_wfglobal_org/_layouts/15/onedrive.aspx?id=/personal/shaik_waseem_wfglobal_org/Documents/Milestone%20Handbook/Milestone%20Presentation%20Handbook/milestone%204/Checklist%20to%20get%20PRVS%20-%20%20FCV2%20-%20Jury%20Certified.pdf&parent=/personal/shaik_waseem_wfglobal_org/Documents/Milestone%20Handbook/Milestone%20Presentation%20Handbook/milestone%204&originalPath=aHR0cHM6Ly93YWRod2FuaWZvdW5kYXRpb24tbXkuc2hhcmVwb2ludC5jb20vOmI6L2cvcGVyc29uYWwvc2hhaWtfd2FzZWVtX3dmZ2xvYmFsX29yZy9FVWVfTDljcGpDSk5obXktSENjVkduMEJXaXprYW5WZ2doR3EzVGhfSDhya3lnP3J0aW1lPVdQbVNUc3JtMkVn)
-
-<br>
-
-[Important resources for M4:](https://wadhwanifoundation-my.sharepoint.com/:f:/g/personal/shaik_waseem_wfglobal_org/EkhLqrB1UrVPrdkL-VTLMCIBdGm9_ydtHMB51D_aMj7wmg?e=XlNNyp)
-
-<br>
 
 
 
